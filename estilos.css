@@ -1,0 +1,35 @@
+.h1 {
+    font-family: "Tac One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
+  .h2 {
+    font-family: "Parisienne", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.container
+{
+    background-color: aqua;
+    
+    height: 100px;
+}
+
+.container-fluid
+{
+   /* background-color: coral;
+   
+    height: 100px;*/
+}
+.row
+{
+    background-color: skyblue;
+    margin: 5px;
+}
+.col{
+    background-color: plum;
+    margin: 5px;
+}
